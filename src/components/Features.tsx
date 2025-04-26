@@ -1,5 +1,5 @@
 
-import { Check, Clock, PackageOpen } from "lucide-react";
+import { Check, Clock, PackageOpen, BellRing } from "lucide-react";
 
 const Features = () => {
   return (
